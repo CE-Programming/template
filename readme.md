@@ -1,4 +1,4 @@
-### CE C SDK Template
+### CE C/C++ Toolchain Template
 
 This is a template for programs that use the [TI-84 Plus CE C/C++ Toolchain](https://github.com/CE-Programming/toolchain).
 You can clone this directory for your own projects.
