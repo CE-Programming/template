@@ -4,7 +4,7 @@
 
 NAME = DEMO
 ICON = icon.png
-DESCRIPTION = "CE C Toolchain Demo"
+DESCRIPTION = "CE Toolchain Demo"
 COMPRESSED = NO
 ARCHIVED = NO
 
